@@ -2,8 +2,7 @@
 - 👀 I’m interested in code creator.Actually I am still learning basic of coding
 - But I hope someday I will be a good proggrammer to make my parent happy
 - 🌱 I’m currently learning Informatic in Unversity. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me Instagram @andra_dhi
 
 <!---
 Andradhi/Andradhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
